@@ -1,0 +1,5 @@
+C:\L9_JR1347025\obj\Debug\net6.0\L9_JR1347025.csproj.AssemblyReference.cache
+C:\L9_JR1347025\obj\Debug\net6.0\L9_JR1347025.GeneratedMSBuildEditorConfig.editorconfig
+C:\L9_JR1347025\obj\Debug\net6.0\L9_JR1347025.AssemblyInfoInputs.cache
+C:\L9_JR1347025\obj\Debug\net6.0\L9_JR1347025.AssemblyInfo.cs
+C:\L9_JR1347025\obj\Debug\net6.0\L9_JR1347025.csproj.CoreCompileInputs.cache
