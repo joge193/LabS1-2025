@@ -1,0 +1,14 @@
+C:\L10_JR1347025\bin\Debug\net9.0\L10_JR1347025.exe
+C:\L10_JR1347025\bin\Debug\net9.0\L10_JR1347025.deps.json
+C:\L10_JR1347025\bin\Debug\net9.0\L10_JR1347025.runtimeconfig.json
+C:\L10_JR1347025\bin\Debug\net9.0\L10_JR1347025.dll
+C:\L10_JR1347025\bin\Debug\net9.0\L10_JR1347025.pdb
+C:\L10_JR1347025\obj\Debug\net9.0\L10_JR1347025.GeneratedMSBuildEditorConfig.editorconfig
+C:\L10_JR1347025\obj\Debug\net9.0\L10_JR1347025.AssemblyInfoInputs.cache
+C:\L10_JR1347025\obj\Debug\net9.0\L10_JR1347025.AssemblyInfo.cs
+C:\L10_JR1347025\obj\Debug\net9.0\L10_JR1347025.csproj.CoreCompileInputs.cache
+C:\L10_JR1347025\obj\Debug\net9.0\L10_JR1347025.dll
+C:\L10_JR1347025\obj\Debug\net9.0\refint\L10_JR1347025.dll
+C:\L10_JR1347025\obj\Debug\net9.0\L10_JR1347025.pdb
+C:\L10_JR1347025\obj\Debug\net9.0\L10_JR1347025.genruntimeconfig.cache
+C:\L10_JR1347025\obj\Debug\net9.0\ref\L10_JR1347025.dll
